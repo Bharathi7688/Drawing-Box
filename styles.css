@@ -29,6 +29,9 @@ canvas {
   background-color: white;
   cursor: crosshair;
 }
+canvas:hover{
+  box-shadow: 2px 2px 7px black;
+}
 
 button{
   padding: 8px 12px;
